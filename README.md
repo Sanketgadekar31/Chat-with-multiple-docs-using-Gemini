@@ -32,9 +32,9 @@ To install, please follow these steps:
    ```
 
 3. Obtain an API key from Gemini and add it to the `.env` file in the project directory.
-```commandline
-GEMINI_API_KEY=your_secrit_api_key
-```
+    ```commandline
+    GEMINI_API_KEY=your_secrit_api_key
+    ```
 
 ## Usage
 -----
